@@ -1,0 +1,21 @@
+*{
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(206, 164, 245);
+}
+
+.título{
+  padding-left: 700px;
+}
+
+.cadeira{
+    font-size: 20px;
+}
+
+button{
+ background-color: rgb(175, 175, 175);
+}
+
